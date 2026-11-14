@@ -22,5 +22,22 @@ A primeira coisa a ser fazer é criar o módulo Go
 go mod init nome-modulo
 ```
 
+---
 
+# Dependencias
+
+- rotas http
+```
+go get -u github.com/gorilla/mux
+```
+
+- conexão com o postgres
+```
+go get -u github.com/lib/pq
+```
+
+- variaveis de ambiente
+```
+go get -u github.com/joho/godotenv
+```
 
