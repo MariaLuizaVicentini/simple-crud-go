@@ -11,3 +11,15 @@ A ideia é construir sem IA uma API REST em Go com todas as operações do CRUD:
 - UPDATE
 
 Esse é o vídeo que usei como referência: https://www.youtube.com/live/rQnhcO5Q68A?si=YW_8dwPbTfLjqpWi
+
+---
+
+A primeira coisa a ser fazer é criar o módulo Go
+- reune infos da app
+- semelhante ao package.json
+
+
+```
+go mod init nome-modulo
+```
+
