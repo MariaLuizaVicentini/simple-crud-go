@@ -15,11 +15,12 @@ Esse é o vídeo que usei como referência: https://www.youtube.com/live/rQnhcO5
 ---
 
 A primeira coisa a ser fazer é criar o módulo Go
-- reune infos da app
+- gerencia as dependencias da app
 - semelhante ao package.json
-
 
 ```
 go mod init nome-modulo
 ```
+
+
 
