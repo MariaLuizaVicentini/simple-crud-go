@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"log"
 	"os"
-
 	"github.com/joho/godotenv"
+	_ "github.com/lib/pq" 
 )
 // Pega as variaveis do env
 // inicializa a conexao com o banco de dados

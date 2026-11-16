@@ -26,6 +26,8 @@ go mod init nome-modulo
 
 # Dependencias
 
+- Beekeeper Studio é um gerenciador de banco de dados e interface gráfica para SQL, vou utiliza-lo no projeto ao invés do postico.
+
 - rotas http
 ```
 go get -u github.com/gorilla/mux

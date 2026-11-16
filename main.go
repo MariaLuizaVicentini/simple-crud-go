@@ -3,7 +3,6 @@ package main
 import (
 	"log"
 	"net/http"
-
 	"github.com/marialuizavicentini/simple-crud-go/config"
 )
 
